@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "name": "meu projeto atualizado",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 400,
+      "services": [
+        {
+          "name": "serviço",
+          "cost": "100",
+          "description": "faz isso",
+          "id": "c9bbb6b9-dbe1-4e06-aec6-30bb54e80b0c"
+        },
+        {
+          "name": "js dev",
+          "cost": "300",
+          "description": "envio de email",
+          "id": "8a637c8d-0d8d-4139-9354-873bf18c8160"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "meu projeto 5",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "serviço",
+          "cost": "1000",
+          "description": "faz isso",
+          "id": "781554c0-d449-4d90-bd01-2c7c2d462b2a"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
